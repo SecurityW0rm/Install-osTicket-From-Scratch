@@ -1,4 +1,4 @@
-#Install-osTicket-From-Scratch
+# Install-osTicket-From-Scratch
 osTicket client installation on Microsoft Azure
 
 Use the video tutorial and written instructions in conjunction with each other to make the installation easy 
