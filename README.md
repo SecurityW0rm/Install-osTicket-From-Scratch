@@ -10,7 +10,7 @@ Use the video tutorial and written instructions in conjunction with each other t
 Azure ($200 in free credits with a new account): https://azure.microsoft.com/en-us/free/
 
 Video Tutorial: 
-[![Install osTicket in Azure]()](https://youtu.be/82hRLTB0-B0)
+[![Install osTicket in Azure]()](https://youtu.be/kMUvpvfGJAc)
 
 
 1. **Create Resource Group**
